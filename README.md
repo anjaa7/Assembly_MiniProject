@@ -6,5 +6,5 @@ Written as a University assignment
 * I/O Controllers
 * Interrupts
 
-<img src="https://github.com/anjaa7/siss/blob/main/images/img7.png?raw=true" width="300" /> 
+<img src="simulator.jpg" width="500" /> 
 
