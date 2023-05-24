@@ -6,5 +6,5 @@ Written as a University assignment
 * I/O Controllers
 * Interrupts
 
-<img src="simulator.jpg" width="500" /> 
+<img src="simulator.jpg" width="1500" /> 
 
